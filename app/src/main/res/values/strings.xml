@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Help!!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Incase of EMERGENCY press RED Button</string>
+    <string name="home">Home</string>
+    <string name="analysis">Analysis</string>
+    <string name="tips">Tips</string>
+    <string name="emergency">Emergency</string>
+</resources>
